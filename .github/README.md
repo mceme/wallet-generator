@@ -1,4 +1,4 @@
-# AXE WALLET GENERATOR
+# IMG WALLET GENERATOR
 ```
 /__      ___ (  /     
 \\--`-'-|`---\\ |
@@ -6,9 +6,9 @@
  '._  W    ,--'      
     |_:_._/
 ```
-JavaScript Client-Side AXE Wallet Generator
+JavaScript Client-Side IMG Wallet Generator
 
-Now AXE addresses and their corresponding private key can be conveniently
+Now IMG addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
