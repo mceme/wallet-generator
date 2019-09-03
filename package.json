@@ -1,5 +1,5 @@
 {
-  "name": "@axerunners/wallet-generator",
+  "name": "wallet-generator",
   "version": "3.4.2",
   "description": "Open Source JavaScript Client-Side AXE Wallet Generator",
   "main": "Gruntfile.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/axerunners/wallet-generator"
+    "url": "git://github.com/mceme/wallet-generator"
   },
   "keywords": [
     "axe",
@@ -35,6 +35,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/axerunners/wallet-generator/issues"
+    "url": "https://github.com/mceme/wallet-generator/issues"
   }
 }
