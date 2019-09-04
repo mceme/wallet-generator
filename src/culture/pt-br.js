@@ -2,7 +2,7 @@
 	translator.translations["pt-br"] = {
 		// javascript alerts or messages
 		"testneteditionactivated": "EDIÇÃO DA TESTNET ATIVADA",
-		"paperlabelbitcoinaddress": "Endereço AXE:",
+		"paperlabelbitcoinaddress": "Endereço IMG:",
 		"paperlabelprivatekey": "Chave privada:",
 		"paperlabelencryptedkey": "Chave privada criptografada (Senha necessária)",
 		"bulkgeneratingaddresses": "Gerando endereços... ",
@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Entrada inválida. As chaves privadas de ambas as entradas são iguais. Você deve inserir duas chaves diferentes.",
 
 		// header and menu html
-		"tagline": "Gerador local de carteiras AXE usando Javascript de código aberto",
-		"generatelabelbitcoinaddress": "Gerando endereço AXE...",
+		"tagline": "Gerador local de carteiras IMG usando Javascript de código aberto",
+		"generatelabelbitcoinaddress": "Gerando endereço IMG...",
 		"generatelabelmovemouse": "Movimente um pouco o ponteiro do mouse para criar entropia...",
 		"generatelabelkeypress": "OU digite alguns caracteres aleatórios nessa caixa de texto",
 		"singlewallet": "Carteira única",
@@ -40,7 +40,7 @@
 		"footerlabelgithub": "Repositório GitHub",
 		"footerlabelgithubzip": "zip",
 		"footerlabelsig": "sig",
-		"footerlabelcopyright1": "Copyright bitaddress.org, The AXE Developers.",
+		"footerlabelcopyright1": "Copyright bitaddress.org, The IMG Developers.",
 		"footerlabelcopyright2": "Copyright do código JavaScript: no código-fonte.",
 		"footerlabelnowarranty": "Sem garantia.",
 
